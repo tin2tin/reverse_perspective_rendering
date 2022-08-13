@@ -1,3 +1,5 @@
+Patch moved here: https://gitlab.com/sungreen/rcam3
+
 # Предистория
 * https://blenderartists.org/t/reverse-perspective-rendering/1213342
 * http://paulbourke.net/miscellaneous/reverseperspective/
